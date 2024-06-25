@@ -1,0 +1,33 @@
+Python Technical Assessment (AI/ML Project)
+
+You are a Python developer whose strength lies in data analytics and AI/ML modelling. The company you’re working for, NotALoanShark Sdn. Bhd., provides loans and would like to see how they can leverage on AI/ML models to predict which of their existing borrowers will fail repayment. This is so that they may take preventative measures to ensure the company’s capital is well-funded.
+Your manager has provided you with a sample set of historical data of existing borrowers, their features/characteristics and whether they’ve failed to repay their loan. You have been tasked to train an AI/ML model that will be able to predict/classify whether existing borrowers will fail to repay their loan. To do so, you are expected to:
+1. Study and analyze the condition of the given dataset with the use of simple statistics.
+2. Conduct Exploratory Data Analysis (“EDA”) on the given dataset to understand the relationships between the given features and/or target variable.
+3. Where deemed necessary, perform the appropriate data preprocessing and/or feature engineering.
+4. Fit and train a suitable AI/ML model(s) and assess its performance using relevant metrics.
+5. Determine the key metrics to be presented to the relevant stakeholders to showcase the model’s performance.
+6. Document the entire development process and key findings in a clear and concise manner.
+
+Your manager has left you a few points to consider:
+
+1. The data is not necessarily clean and not all columns may be relevant. Hence, you may choose to alter the data as you deem fit.
+2. The target variable column is called “repay_fail”.
+3. You may split the given dataset into your training and testing dataset as deemed appropriate.
+4. If multiple models were trained, measure each of their performance and decide on one final model.
+5. The stakeholders may not possess the same level of technical knowledge as you do.
+6. Your documentation should contain:
+a. A clear step-by-step guide on the steps taken throughout the development process, including the assumptions made.
+b. For any data alteration/preprocessing/sampling and/or feature engineering conducted, explain the rationale and objective behind it.
+c. Include any visualization(s) and/or statistic(s) produced throughout and explain its importance/relevance.
+d. The model(s) considered and your justification(s).
+e. The model training process, output summary and the model(s) performance(s).
+f. Concise explanation on the metric(s) used to measure the model(s) performance and why the metric(s) is deemed suitable.
+g. If multiple models were trained, explain the final model selection process clearly.
+h. A conclusive note on the final model selected and some key metric(s) to be presented relevant stakeholders to describe the model’s performance.
+i. Any possible limitations of the final model and future enhancements to consider.
+
+Please set up a new repo in GitHub and ensure the project is structured in a way that is easily reproducible for validation purposes. Kindly submit the GitHub link to us once completed.
+Your documentation can be part of GitHub’s README.md or may be a separate Word document. You are recommended to use Python 3 and/or above.
+Your manager wishes you the best of luck!
+========================================= END =============================================

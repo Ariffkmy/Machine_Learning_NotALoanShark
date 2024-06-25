@@ -1,0 +1,2 @@
+id,member_id,loan_amount,funded_amount,funded_amount_investors,interest_rate,installment,annual_income,debt_to_income_ratio,no_delinquency_2yrs,inquiries_last_6mths,months_since_last_delinquency,no_open_accounts,public_records,revolving_balance,revolving_utillization,no_total_account,total_payment,total_payment_investors,total_received_principal,total_received_interest,term,employment_length,home_ownership,verification_status,loan_status,purpose
+545583,703644,2500,2500,2500,13.98,85.42,20004,19.86,0,5,0,7,0,981,0.00213,10,3075.291779,3075.29,2500,575.29,0,4,4,0,4,9
