@@ -2,9 +2,9 @@ NotALoanSharkML_Assessment_Ariff_Hakimi
 
 Overview flow of programs:
 
-Step 1: labelencoder.py -> Data cleaned up
-Step 2: simplestats.py -> Basic statistic
-Step 3: eda.py -> EDA task
+Step 1: labelencoder.py -> Data cleaned up,
+Step 2: simplestats.py -> Basic statistic,
+Step 3: eda.py -> EDA task,
 Step 4: combinemodel.py -> Model training, building and testing
 
 ==================================================
